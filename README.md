@@ -1,4 +1,4 @@
-# regular-expressions-library
+# Regular-expressions-library
 
 This library is intended for working with regular languages represented by finite automata (DFAs and ε-NFAs) and/or regular expressions. It enables the following functionalities for working with regular languages:
 
