@@ -1,0 +1,6 @@
+REGEX;
+a,b;
+a.b*|b.a;
+ba;
+abbbbb;
+abbba;
